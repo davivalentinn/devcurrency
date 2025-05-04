@@ -1,0 +1,30 @@
+
+
+div h1 {
+    font-family: "Montserrat", sans-serif;
+    color: #fff;
+    font-weight: 800;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 200px 0;
+}
+
+.container .link {
+    margin: 20px 0;
+    background-color: #092147;
+    padding: 10px 40px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 600;
+    transition: all .1s;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.container .link:hover {
+    background-color: #092147d9;
+}
