@@ -26,5 +26,5 @@ Uma aplicação web feita em **React + TypeScript** que consome a API da [CoinCa
 - **CSS Modules** para estilização local
 - **Intl.NumberFormat** para formatação de valores monetários e compactos
 
-## 🧱 Deploy
+## 🚀 Deploy
 https://davivalentinn.github.io/devcurrency/
